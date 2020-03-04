@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">KotlinSubmission1</string>
+
+    <string-array name="league_name">
+        <item>English Premier League</item>
+        <item>French Ligue</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>Spanish La Liga</item>
+        <item>American Mayor League</item>
+        <item>Portugeuese Premiera Liga</item>
+        <item>Autrian A League</item>
+        <item>Scottish Premier League</item>
+        <item>English League 1</item>
+    </string-array>
+
+    <array name="images_league">
+        <item>@drawable/english_premier_league</item>
+        <item>@drawable/french_ligue_1</item>
+        <item>@drawable/german_bundesliga</item>
+        <item>@drawable/italian_serie_a</item>
+        <item>@drawable/spanish_la_liga</item>
+        <item>@drawable/american_mayor_league</item>
+        <item>@drawable/portugeuese_premiera_liga</item>
+        <item>@drawable/australian_a_league</item>
+        <item>@drawable/scotish_premier_league</item>
+        <item>@drawable/english_league_1</item>
+    </array>
+
+    <string-array name="desk_league">
+        <item>The Premier League, often referred to as the English Premier League or the EPL outside England, is the top level of the English football league system. Contested by 20 clubs, it operates on a system of promotion and relegation with the English Football League (EFL). Seasons run from August to May with each team playing 38 matches (playing all 19 other teams both home and away). Most games are played on Saturday and Sunday afternoons. The Premier League has featured 47 English and two Welsh clubs since its inception, making it a cross border league.</item>
+        <item>Ligue 1, also called Ligue 1 Conforama for sponsorship reasons, is a French professional league for mens association football clubs. At the top of the French football league system, it is the countrys primary football competition. Administrated by the Ligue de Football Professionnel, Ligue 1 is contested by 20 clubs and operates on a system of promotion and relegation with Ligue 2.</item>
+        <item>The Bundesliga lit.  Federal League, sometimes referred to as die Bundesliga  or 1. Bundesliga is a professional association football league in Germany and the football league with the highest average stadium attendance worldwide. At the top of the German football league system, the Bundesliga is Germanys primary football competition. The Bundesliga comprises 18 teams and operates on a system of promotion and relegation with the 2. Bundesliga. Seasons run from August to May. Most games are played on Saturdays and Sundays, with a few games played on weekdays. All of the Bundesliga clubs qualify for the DFB Pokal. The winner of the Bundesliga qualifies for the DFL Supercup.</item>
+        <item>Serie A , also called Serie A TIM due to sponsorship by TIM, is a professional league competition for football clubs located at the top of the Italian football league system and the winner is awarded the Scudetto and the Coppa Campioni dItalia. It has been operating as a round-robin tournament for over ninety years since the 1929–30 season. It had been organized by the Direttorio Divisioni Superiori until 1943 and the Lega Calcio until 2010, when the Lega Serie A was created for the 2010–11 season.</item>
+        <item>The Campeonato Nacional de Liga de Primera División, commonly known as La Liga (La Liga Santander) for sponsorship reasons with Santander), is the mens top professional football division of the Spanish football league system. Administered by the Liga Nacional de Fútbol Profesional (English National Professional Football League), also known as the Liga de Fútbol Profesional (LFP), La Liga is contested by 20 teams, with the three lowest-placed teams at the end of each season relegated to the Segunda División and replaced by the top three teams in that division.</item>
+        <item>Major League Soccer (MLS) is a mens professional soccer league sanctioned by the United States Soccer Federation which represents the sports highest level in the United States and Canada. The league comprises 26 teams—23 in the U.S. and 3 in Canada and constitutes one of the major professional sports leagues in both countries. The league plans to expand to 30 teams with the additions of Austin FC and Charlotte in 2021, then Sacramento Republic FC and a St. Louis franchise in 2022.</item>
+        <item>The Primeira Liga, also known as Liga NOS for sponsorship reasons, is the top professional association football division of the Portuguese football league system. It is organised and supervised by the Liga Portuguesa de Futebol Profissional, also known as Liga Portugal. As of the 2014 15 season, the Primeira Liga is contested by 18 teams, with the two lowest placed teams relegated to the LigaPro and replaced by the top-two non-reserve teams from this division, except in the 2018–19 season in which the three lowest placed teams were relegated to the LigaPro due to the integration in the Primeira Liga of Gil Vicente in the following season. The Portuguese Football Federation appealed to proceed with this integration as soon as possible.</item>
+        <item>The A-League is the highest level professional mens soccer league in Australia. At the top of the Australian league system, it is the countrys primary competition for the sport. The A League was established in 2004 by Football Federation Australia (FFA) as a successor to the National Soccer League (NSL) and competition commenced in August 2005.</item>
+        <item>The Scottish Premier League (SPL) was the top level league competition for professional football clubs in Scotland. The league was founded in 1998, when it broke away from the Scottish Football League (SFL). It was abolished in 2013, when the SPL and SFL merged to form the new Scottish Professional Football League, with its top division being known as the Scottish Premiership. A total of 19 clubs competed in the SPL, but only the Old Firm clubs, Celtic and Rangers won the league championship.</item>
+        <item>The English Football League One (often referred to as League One for short or Sky Bet League One for sponsorship reasons) is the second highest division of the English Football League and the third tier overall in the entire English football league system.</item>
+     </string-array>
+</resources>
